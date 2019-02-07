@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PopularMovies2</string>
+
+    <string name="content_authority">com.example.android.popularmovies2</string>
+
+
+    <string name="vote_average">%1$d/10</string>
+
+    <!-- Menu Items Title -->
+    <string name="action_sort">Sort</string>
+
+
+    <!-- End Points -->
+    <string name="popular_end_point_path">popular</string>
+    <string name="top_rated_end_point_path">top_rated</string>
+    <string name="trailers_end_point_path">videos</string>
+    <string name="reviews_end_point_path">reviews</string>
+
+</resources>
