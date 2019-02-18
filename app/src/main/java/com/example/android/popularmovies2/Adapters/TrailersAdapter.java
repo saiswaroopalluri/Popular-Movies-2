@@ -9,7 +9,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import com.example.android.popularmovies2.Interfaces.TrailerItemClickListener;
-import com.example.android.popularmovies2.Models.Video;
+import com.example.android.popularmovies2.models.Video;
 import com.example.android.popularmovies2.R;
 
 import java.util.List;

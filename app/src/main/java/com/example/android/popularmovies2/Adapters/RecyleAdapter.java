@@ -9,7 +9,7 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 
 import com.example.android.popularmovies2.Interfaces.MovieItemClickListener;
-import com.example.android.popularmovies2.Models.Movie;
+import com.example.android.popularmovies2.models.Movie;
 import com.example.android.popularmovies2.R;
 import com.squareup.picasso.Picasso;
 

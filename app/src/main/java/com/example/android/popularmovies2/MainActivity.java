@@ -24,7 +24,7 @@ import android.widget.Spinner;
 
 import com.example.android.popularmovies2.Adapters.RecyleAdapter;
 import com.example.android.popularmovies2.Interfaces.MovieItemClickListener;
-import com.example.android.popularmovies2.Models.Movie;
+import com.example.android.popularmovies2.models.Movie;
 import com.example.android.popularmovies2.Network.MoviesLoaderCallbacks;
 import com.example.android.popularmovies2.Utils.JsonUtils;
 import com.example.android.popularmovies2.Utils.NetworkUtility;

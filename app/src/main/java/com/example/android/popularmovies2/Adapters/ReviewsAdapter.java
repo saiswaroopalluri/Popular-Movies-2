@@ -9,7 +9,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import com.example.android.popularmovies2.Interfaces.ReviewItemClickListener;
-import com.example.android.popularmovies2.Models.Review;
+import com.example.android.popularmovies2.models.Review;
 import com.example.android.popularmovies2.R;
 
 import java.util.List;

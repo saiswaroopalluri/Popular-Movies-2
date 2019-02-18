@@ -3,11 +3,15 @@ package com.example.android.popularmovies2.data;
 import android.net.Uri;
 import android.provider.BaseColumns;
 
-public class PopularMoviesContract {
+public final class PopularMoviesContract {
 
     public static final String AUTHORITY = "com.example.android.popularmovies2";
     public static final Uri BASE_CONTENT_URI = Uri.parse("content://" + AUTHORITY);
     public static final String PATH_MOVIES = "movies";
+
+    private PopularMoviesContract() {
+        throw new AssertionError();
+    }
 
     public static final class PopularMoviesEntry implements BaseColumns {
 
